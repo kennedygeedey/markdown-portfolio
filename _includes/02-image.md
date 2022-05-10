@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Kennedy]
+
+![meeeee](https://user-images.githubusercontent.com/105303924/167712440-60df270e-3ec4-416a-9a56-c07ca2116218.JPG)
