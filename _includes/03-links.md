@@ -1,2 +1,1 @@
-![GitHub Profile of Kennedy]
-https://github.com/kennedygeedey/
+[GitHub](http://github.com/kennedygeedey/)
