@@ -1,3 +1,3 @@
 [GitHub](http://github.com/kennedygeedey/)
 
-[LinkedIn] (https://www.linkedin.com/in/kennedy-geedey/)
+[LinkedIn](http://www.linkedin.com/in/kennedy-geedey/)
