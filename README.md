@@ -7,7 +7,7 @@ I'm a System Administrator and IT student who is passionate about network infras
 - 💻 I’m an Information Technology undergrad at Arizona State University.🌞
 - 📚 I’m currently furthering my skills as a System Administrator through the Microsoft Software and Systems Academy.
 - 👯 I’m looking for a job with a company that values customer service, a growth mindset, and team collaboration. . 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kennedy-geedey) [Outlook](mailto:kennedy.a.geedey@outlook.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kennedy-geedey) or [Outlook](mailto:kennedy.a.geedey@outlook.com)
 
 
 
