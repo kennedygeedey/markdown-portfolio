@@ -1,13 +1,13 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+### Hi there 👋
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Oh! I haven't introduced myself...
+I'm a System Administrator and IT student who is passionate about network infrastructure, solving problems, and working with people.
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+- 🔭 I’m currently an Information Technology undergrad at Arizona State University.
+- 📚 I’m currently furthering my skills as a System Administrator through the Microsoft Software and Systems Academy.
+- 👯 I’m looking for a job with a company that values customer service, a growth mindset, and team collaboration. . 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kennedy-geedey) [Outlook](mailto:kennedy.a.geedey@outlook.com)
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+⭐️ From [hazemessam](https://github.com/hazemessam)
+Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
