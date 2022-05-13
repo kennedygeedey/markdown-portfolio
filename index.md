@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image and emphasis.md %}
+{% include 02-image & emphasis.md %}
 
 <br>
 
