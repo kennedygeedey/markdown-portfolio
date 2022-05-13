@@ -6,11 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image & emphasis.md%}
-
-<br>
-
-{% include 03-links.md %}
+{% include 02-image & emphasis.md %}
 
 <br>
 
