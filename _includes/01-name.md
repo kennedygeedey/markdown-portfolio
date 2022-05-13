@@ -2,7 +2,7 @@
 ### Network Administrator
 ### Hi there 👋
 
-<align="right" alt="Github" src="https://user-images.githubusercontent.com/105303924/167712440-60df270e-3ec4-416a-9a56-c07ca2116218.JPG" width="50"/>
+<img src="https://user-images.githubusercontent.com/105303924/167712440-60df270e-3ec4-416a-9a56-c07ca2116218.JPG" width="250">
 
 I'm a System Administrator and IT student who is passionate about network infrastructure, solving problems, and working with people.
 
