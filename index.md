@@ -14,4 +14,4 @@ layout: default
 
 <br>
 
-{% include 05-javaascript.md %}
+{% include 05-javascript.md %}
