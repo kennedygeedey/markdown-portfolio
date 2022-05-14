@@ -1,4 +1,4 @@
-### Brief Work Experience
+## Brief Work Experience
 
 <img width="25%" align="right" alt="Github" img src="https://user-images.githubusercontent.com/105303924/168323328-24d832a1-5baf-455a-bd2d-b827fb36dc09.JPG" />
 
