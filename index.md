@@ -10,7 +10,11 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+{% include 03-life.md %}
+
+<br>
+
+{% include 04-network.md %}
 
 <br>
 
