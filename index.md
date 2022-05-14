@@ -18,8 +18,12 @@ layout: default
 
 <br>
 
-{% include 05-javascript.md %}
+{% include 05-powershell.md %}
 
 <br>
 
-{% include 06-SQL.md %}
+{% include 06-javascript.md %}
+
+<br>
+
+{% include 07-SQL.md %}
