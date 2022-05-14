@@ -1,4 +1,4 @@
-## Javascript Txt Files
+## JavaScript Txt Files
 
 - [Account Balance](https://github.com/kennedygeedey/markdown-portfolio/files/8692144/Account.Balance.txt)
 - [Average Grade (for Students)](https://github.com/kennedygeedey/markdown-portfolio/files/8692133/Average.Grade.for.Students.txt)
