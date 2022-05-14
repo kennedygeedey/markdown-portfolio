@@ -15,3 +15,7 @@ layout: default
 <br>
 
 {% include 05-javascript.md %}
+
+<br>
+
+{% include 06-SQL.md %}
