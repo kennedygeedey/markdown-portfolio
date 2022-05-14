@@ -1,5 +1,5 @@
 ## Kennedy Geedey
-### Network Administrator
+## Network Administrator
 ### Hi there 👋
 
 <img width="35%" align="right" alt="Github" src= "https://user-images.githubusercontent.com/105303924/168316118-3a905023-179c-48d6-8620-eb12762bc975.gif" />
